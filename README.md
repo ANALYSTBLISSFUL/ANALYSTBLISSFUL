@@ -1,7 +1,15 @@
 ## Hi, I'm Blessing
-### Financial Analyst
-Here are some tools I work with:
+### About Me
+- Charterd Accountant(ACA)
+- Financial Analyst
+
+### Skills
+- Financial Analysis
+- Financial reporting
+- Data Analysis and Visualization
+
+### Tools I work With
 - Microsoft Excel
 - SQL
 - Power BI
-- Financial reporting
+- Sage X3
