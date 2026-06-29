@@ -28,4 +28,7 @@ My passion lies in using financial insights, business intelligence, and technolo
 - LinkedIn: www.linkedin.com/in/meneke-chizoba-blessing
 
 
+<img width="720" height="180" alt="Image" src="https://github.com/user-attachments/assets/8dee3c12-4b7d-4281-a856-6177b9945ea9" />
+
+
 
