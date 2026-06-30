@@ -40,7 +40,7 @@ I'm currently expanding my analytical skills by building projects using Excel, S
 - Business Intelligence
 
 ### Featured Projects
-- Sales Performance Report in Excel
+- Sales Performance Report in Excel: https://github.com/ANALYSTBLISSFUL/SALES_PERFORMANCE
 
 ### Connect With Me
 - LinkedIn: www.linkedin.com/in/meneke-chizoba-blessing
