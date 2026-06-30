@@ -1,15 +1,20 @@
 # Hi, I'm Blessing
 ### About Me
-I am an Accountant with a growing interest in Finance and Business Analysis.
-My passion lies in using financial insights, business intelligence, and technology-driven solutions to improve decision-making, optimize processes, and create value for organizations.
+I'm an Accountant with a growing passion for Finance, Business Analysis, and Data Analytics. I enjoy turning financial and business data into actionable insights that support better decision-making, improve operational efficiency, and drive organizational growth.
+
+I'm currently expanding my analytical skills by building projects using Excel, SQL, and Power BI, while applying my accounting knowledge to solve real-world business problems.
 
 ### Areas of Interest
 - Financial Analysis & Planning
 - Business Analysis
+- Data Analytics
+- Business Intelligence
+- Process Improvement
 
 ### Skills
 - Financial Analysis
 - Financial reporting
+- Budgeting & Forecasting
 - Taxation & Regulatory Compliance
 - Business Analysis
 - Data Analysis and Visualization
@@ -21,8 +26,21 @@ My passion lies in using financial insights, business intelligence, and technolo
 - Sage X3
 
 ### Certifications & Professional Development
-- ACA
-- AAT
+- Bachelor of Science in Accounting (B.Sc Accounting)
+- Associate of Chartered Accountants (ACA)
+- Associate of Accounting Technicians (AAT)
+- Data analysis essentials (Cisco)
+- Data analysis and visualization (3MTT)
+- Data analysis and visualization (The Incubator Hub)
+  
+### Currently Learning
+- Advanced SQL
+- Power BI Dashboard Design
+- Financial Modeling
+- Business Intelligence
+
+### Featured Projects
+- Sales Performance Report in Excel
 
 ### Connect With Me
 - LinkedIn: www.linkedin.com/in/meneke-chizoba-blessing
